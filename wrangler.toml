@@ -1,4 +1,4 @@
-name = "drm1"
+name = "drma"
 main = "src/index.js"
 compatibility_date = "2025-07-25"
 usage_model = "bundled"
